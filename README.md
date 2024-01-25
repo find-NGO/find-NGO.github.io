@@ -1,13 +1,6 @@
-# Sample Markdown Code
+## Verified NGO List by Category
 
-## Heading
-
-This is a sample Markdown document with a title, heading, and a table.
-
-### Table
-
-| Column 1 | Column 2 | Column 3 | Column 4 |
-|----------|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   | Data 4   |
-| Data 5   | Data 6   | Data 7   | Data 8   |
-| Data 9   | Data 10  | Data 11  | Data 12  |
+| Name | Category | Location | Contact | 
+|----------|----------|----------|----------|------|
+| Samarth Bharath Vyaspeeth  | School | 5XQ7+J85, Teen Hath Naka, Eastern Express Hwy, Opp Punjab And Sind Bank, Signal, Thane West, Thane, Maharashtra 400602, India   | 02225454644  |
+| Nandadeep Foundation   | Orphanage |  A/4 Suphala Apartment, Ground Floor, Near Jokar plaza, Beside K.C. Gandhi school, Kalyan west 421301   | 9167861720  |
